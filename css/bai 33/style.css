@@ -1,0 +1,19 @@
+/* Tác dụng lên selector khi di chuột qua */
+/* .di_chuot:hover{
+    color: blue; 
+} */
+
+/* Tác dụng lên selector khi nhấn giữ chuột */
+/* .di_chuot:active{
+    color: red;
+} */
+
+/* Chọn các thẻ a chưa có liên kết qua trang  */
+.click-me:link{
+    color: chocolate;
+}
+
+/* Chọn các thẻ a đã liên kết qua trang  */ 
+.click-me:visited{
+    color: red;
+}

@@ -1,0 +1,27 @@
+
+body{
+    background-color: rgb(145, 232, 145);
+
+
+}
+a{
+    /*
+    1- padding-top, padding-botton
+    2- margin-top, margin-botton
+    3- width, heigh,min-width, min-heigh
+    */
+
+    text-decoration: none;
+    background-color: rgb(235, 125, 215);
+    border-radius: 999px;
+    color: #000;
+    width: 100px;
+    display: inline-block;
+    padding: 8px 16px;
+    text-align: center;
+    cursor: pointer;
+}
+a:hover{
+    background-color: #000;
+    color: rgb(235, 125, 215);
+}

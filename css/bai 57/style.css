@@ -1,0 +1,27 @@
+/* h1{
+    color: rgb(233, 130, 226);
+    color: rgb(233 130 226);
+    0 - 255 => 255*3 tương ứng với 16,7 triệu màu
+
+    kênh rgba
+    color: rgba(233, 130, 226, 0.5);
+    background-color: pink;
+
+     kênh hệ hex
+    color: #4aef66; 
+} */
+.box{
+    margin: 200px;
+    width: 200px;
+    height: 200px;
+    color: pink;
+    /* background-color: currentColor; */
+    outline: 5px solid currentColor;
+    outline-offset: 5px;
+}
+/* chức năng tính thừa kế trong màu tại vì trong box-child không có màu nên phải thừa kế màu từ class cha đó  color:pink */
+.box-child{
+    width: 50px;
+    height: 50px;
+    background-color: currentColor;
+}

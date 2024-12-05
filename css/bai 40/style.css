@@ -1,0 +1,25 @@
+div{
+    width: 100px;
+    height: 100px;
+    color: yellow;
+    background: red;
+    /* trên dưới - trái phải */
+    /* padding: 20px 30px; */
+
+    /* trên - trái phải - dưới
+    padding: 20px 15px 20px; */
+
+    /* trển phải dưới trái */
+    padding: 20px 10px 15px 25px;
+
+    /* Viền */
+    /* border: 10px double green; */
+    /* border-top: 10px solid pink;
+    border-left: 10px dashed black;
+    border-bottom: 10px dotted yellow;
+    border-right: 10px double blue; */
+
+    /* border-width: 10px 20px 30px 40px ; /*giống padding*/
+    /* border-style: solid dashed dotted double; /*kiểu */
+    /* border-color: blueviolet; màu viền */ 
+}

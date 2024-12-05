@@ -1,0 +1,28 @@
+/* h2{
+    font-size: 30px;
+    width: 120px;
+    height: 80px;
+    background-color: aqua;
+}
+p{
+    width: 50%;
+    background-color: blue;
+} */
+
+/*Bài 53*/
+
+/* .box{
+    background-color: rgb(86, 142, 239);
+    width: 50%;
+    
+}
+.box-child{
+    background-color: rgb(227, 105, 211);
+} */
+
+.parent{
+    font-size: 60px;
+}
+.line-1{
+    font-size: 40%;
+}

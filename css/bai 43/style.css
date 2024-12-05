@@ -1,0 +1,21 @@
+body{
+    background-color: #ddd;
+}
+.container{
+    margin: 0 auto; /*trên dưới là 0 - trái phải là auto*/
+    width: 700px; /*chiều dài 700*/
+    background-color: aquamarine;/*màu nền*/
+    text-align: center;/*căn giữa*/
+}
+.container h1{/*h1 là con của container*/
+    font-size: 40px; /*Kích thước chứ*/
+}
+.container p{/*p là con của container*/
+    font-size: 24px;/*Kích thước chứ*/
+    line-height: 1.4;/*Khoảng cách của các dòng*/
+}
+.container img{/*img là con của container*/
+    /* width: 400px;
+    height: 300px; */
+    max-width: 600px;
+}

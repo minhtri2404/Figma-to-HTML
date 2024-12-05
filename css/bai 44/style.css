@@ -1,0 +1,16 @@
+.content{
+    background-color: yellow;
+    padding: 40px;
+    display: inline-block;
+}
+.avata{
+    width: 150px;
+    height: 130px;
+    border-radius: 50%;
+    border: 1px solid #656464;
+    margin-left: -70px;
+}
+.avata:first-child{
+    margin-left: 0;
+    
+}
