@@ -8,5 +8,5 @@ html{
 }
 /* Khôi phục lại cỡ chữ mặc định theo rem */
 body{
-    font-size: 1.6em;
+    font-size: 1.6rem;
 }
